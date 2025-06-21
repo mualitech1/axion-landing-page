@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60" fill="none">
+  <path d="M52 36H44.82C44.4 34.84 43.3 34 42 34C40.7 34 39.6 34.84 39.18 36H8C6.9 36 6 36.9 6 38C6 39.1 6.9 40 8 40H39.18C39.6 41.16 40.7 42 42 42C43.3 42 44.4 41.16 44.82 40H52C53.1 40 54 39.1 54 38C54 36.9 53.1 36 52 36Z" fill="#00E7FF"/>
+  <path d="M8 24H15.18C15.6 25.16 16.7 26 18 26C19.3 26 20.4 25.16 20.82 24H52C53.1 24 54 23.1 54 22C54 20.9 53.1 20 52 20H20.82C20.4 18.84 19.3 18 18 18C16.7 18 15.6 18.84 15.18 20H8C6.9 20 6 20.9 6 22C6 23.1 6.9 24 8 24Z" fill="#00E7FF"/>
+  <path d="M52 4H36.82C36.4 2.84 35.3 2 34 2C32.7 2 31.6 2.84 31.18 4H8C6.9 4 6 4.9 6 6C6 7.1 6.9 8 8 8H31.18C31.6 9.16 32.7 10 34 10C35.3 10 36.4 9.16 36.82 8H52C53.1 8 54 7.1 54 6C54 4.9 53.1 4 52 4Z" fill="#00E7FF"/>
+  <path d="M26 50H8C6.9 50 6 50.9 6 52C6 53.1 6.9 54 8 54H26C27.1 54 28 53.1 28 52C28 50.9 27.1 50 26 50Z" fill="#00E7FF"/>
+  <path d="M52 50H36.82C36.4 48.84 35.3 48 34 48C32.7 48 31.6 48.84 31.18 50H30C28.9 50 28 50.9 28 52C28 53.1 28.9 54 30 54H31.18C31.6 55.16 32.7 56 34 56C35.3 56 36.4 55.16 36.82 54H52C53.1 54 54 53.1 54 52C54 50.9 53.1 50 52 50Z" fill="#00E7FF"/>
+  
+  <!-- Optimization arrows -->
+  <path d="M22 47L26 51L22 55" stroke="#00E7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M34 46L30 42L34 38" stroke="#00E7FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Sparkles -->
+  <path d="M49 29L52 32L49 35" stroke="#00E7FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M45 31L42 28L45 25" stroke="#00E7FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M47 25V35" stroke="#00E7FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M42 32H52" stroke="#00E7FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg> 

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60" fill="none">
+  <path d="M54 52H6V8C6 6.9 5.1 6 4 6C2.9 6 2 6.9 2 8V54C2 55.1 2.9 56 4 56H54C55.1 56 56 55.1 56 54C56 52.9 55.1 52 54 52Z" fill="#00FFE6"/>
+  <path d="M50 14H42C40.9 14 40 14.9 40 16V44C40 45.1 40.9 46 42 46H50C51.1 46 52 45.1 52 44V16C52 14.9 51.1 14 50 14ZM48 42H44V18H48V42Z" fill="#00FFE6"/>
+  <path d="M36 24H28C26.9 24 26 24.9 26 26V44C26 45.1 26.9 46 28 46H36C37.1 46 38 45.1 38 44V26C38 24.9 37.1 24 36 24ZM34 42H30V28H34V42Z" fill="#00FFE6"/>
+  <path d="M22 34H14C12.9 34 12 34.9 12 36V44C12 45.1 12.9 46 14 46H22C23.1 46 24 45.1 24 44V36C24 34.9 23.1 34 22 34ZM20 42H16V38H20V42Z" fill="#00FFE6"/>
+  
+  <!-- Growth trendline -->
+  <path d="M10 38L20 28L30 32L42 20L50 14" stroke="#00FFE6" stroke-width="1.5" stroke-dasharray="2 2"/>
+  
+  <!-- Improvement indicators -->
+  <circle cx="20" cy="28" r="2" fill="#00FFE6"/>
+  <circle cx="30" cy="32" r="2" fill="#00FFE6"/>
+  <circle cx="42" cy="20" r="2" fill="#00FFE6"/>
+  
+  <!-- Up arrow -->
+  <path d="M54 10L58 14L50 14L54 10Z" fill="#00FFE6"/>
+  <path d="M54 10V24" stroke="#00FFE6" stroke-width="1.5"/>
+</svg> 
